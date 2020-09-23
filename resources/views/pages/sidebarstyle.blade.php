@@ -5,7 +5,7 @@
         </a>
         <ul class="dropdown-menu">
             <li class="header-title"> {{ __('Sidebar Style') }}</li>
-            <li class="adjustments-line">
+            <!-- <li class="adjustments-line">
                 <a href="javascript:void(0)" class="switch-trigger">
                     <p>{{ __('Background Image') }}</p>
                     <label class="switch">
@@ -14,7 +14,7 @@
                     </label>
                     <div class="clearfix"></div>
                 </a>
-            </li>
+            </li> -->
             <li class="adjustments-line">
                 <a href="javascript:void(0)" class="switch-trigger background-color">
                     <p>Filters</p>
